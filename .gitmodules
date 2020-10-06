@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Arieswu0324/Arieswu0324.github.io.git
+	branch = master
+[submodule "themes/roxo"]
+	path = themes/roxo
+	url = https://github.com/Arieswu0324/AriesAbbeyPage
